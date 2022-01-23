@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\CalculateApp\CalculateApp\bin\Debug\netcoreapp3.1\CalculateApp.exe
+C:\Users\HP\source\repos\CalculateApp\CalculateApp\bin\Debug\netcoreapp3.1\CalculateApp.deps.json
+C:\Users\HP\source\repos\CalculateApp\CalculateApp\bin\Debug\netcoreapp3.1\CalculateApp.runtimeconfig.json
+C:\Users\HP\source\repos\CalculateApp\CalculateApp\bin\Debug\netcoreapp3.1\CalculateApp.runtimeconfig.dev.json
+C:\Users\HP\source\repos\CalculateApp\CalculateApp\bin\Debug\netcoreapp3.1\CalculateApp.dll
+C:\Users\HP\source\repos\CalculateApp\CalculateApp\bin\Debug\netcoreapp3.1\CalculateApp.pdb
+C:\Users\HP\source\repos\CalculateApp\CalculateApp\obj\Debug\netcoreapp3.1\CalculateApp.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\CalculateApp\CalculateApp\obj\Debug\netcoreapp3.1\CalculateApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\CalculateApp\CalculateApp\obj\Debug\netcoreapp3.1\CalculateApp.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\CalculateApp\CalculateApp\obj\Debug\netcoreapp3.1\CalculateApp.AssemblyInfo.cs
+C:\Users\HP\source\repos\CalculateApp\CalculateApp\obj\Debug\netcoreapp3.1\CalculateApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CalculateApp\CalculateApp\obj\Debug\netcoreapp3.1\CalculateApp.dll
+C:\Users\HP\source\repos\CalculateApp\CalculateApp\obj\Debug\netcoreapp3.1\CalculateApp.pdb
+C:\Users\HP\source\repos\CalculateApp\CalculateApp\obj\Debug\netcoreapp3.1\CalculateApp.genruntimeconfig.cache
